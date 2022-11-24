@@ -1,5 +1,5 @@
 body{
-  background: gray;
+  background: pink;
 }
 form label{
   display: block;
@@ -15,7 +15,7 @@ h1{
   collor: blue;
 }
 table  {
-  background:white;
+  background:purple;
 }
 thead {
 background: #555555;
